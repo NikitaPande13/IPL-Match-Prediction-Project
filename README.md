@@ -14,7 +14,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 Code
 
-* Template code is provided in the IPL_match_win_probability.ipynb notebook file. You will also be required to use the IPL dataset file from [NikitaPande13/IPL-Match-Prediction-Project/IPL Data/]([https://github.com/NikitaPande13/IPL-Match-Prediction-Project/IPL Data/](https://github.com/NikitaPande13/IPL-Match-Prediction-Project/tree/main/IPL%20Data))) to complete your work. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project.
+* Template code is provided in the IPL_match_win_probability.ipynb notebook file. You will also be required to use the IPL dataset file from [NikitaPande13/IPL-Match-Prediction-Project/IPL Data/]([https://github.com/NikitaPande13/IPL-Match-Prediction-Project/IPL Data/](https://github.com/NikitaPande13/IPL-Match-Prediction-Project/tree/main/IPL%20Data)) to complete your work. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project.
 
 Run
 

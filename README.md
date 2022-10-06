@@ -18,7 +18,9 @@ Code
 
 Run
 
-* In a terminal or command window, navigate to the top-level project directory [NikitaPande13\IPL-Match-Prediction-Project\]((https://github.com/NikitaPande13/IPL-Match-Prediction-Project/)) (that contains this README) and run one of the following commands:
+* In a terminal or command window, navigate to the top-level project directory 
+* [NikitaPande13\IPL-Match-Prediction-Project\](https://github.com/NikitaPande13/IPL-Match-Prediction-Project/)) 
+* (that contains this README) and run one of the following commands:
 
 
 ![1](https://user-images.githubusercontent.com/106645403/194279900-3743d103-c28d-4ed7-8e1a-ee4a5b1ee979.PNG)
